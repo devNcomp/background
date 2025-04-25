@@ -1,0 +1,16 @@
+.vut{
+  font-size: 50px;
+  padding: 100px 100px; 
+  border: none;
+  background-color: #d87575; 
+  cursor: pointer; 
+  transition: background-color 0.7s; 
+  
+}
+.changer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+  margin: 0; 
+}
